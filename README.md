@@ -5,7 +5,8 @@ this is a static ecommerce website having following pages
    for user authentication 
 2) register page
    where user can create his account with ekart application
-   3)about page
+   
+ 3)about page
   where we are add our company  info
 
    4)product_details  page
